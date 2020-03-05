@@ -35,8 +35,8 @@ main {
   background: pink;
   border: none;
   text-decoration: none;
+  font-size: 14pt;
   font-weight: 400;
-  font-family: 'IBM Plex Mono', sans-serif;
   transition: background-color 0.5s ease;
   cursor: pointer;
   color: white;
@@ -54,21 +54,9 @@ main {
   padding-bottom: 1rem;
 }
 
-.span-block {
+.text-block {
   display: block;
-}
-
-#hi {
   font-weight: 600;
-  font-size: 3rem;
-  font-family: 'IBM Plex Mono', sans-serif;
-}
-
-#come-back {
-  font-family: 'IBM Plex Sans', sans-serif;
-  font-weight: 400;
-  font-style: italic;
-  font-size: 2rem;
 }
 
 .pink-box {

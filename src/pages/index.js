@@ -7,8 +7,8 @@ const IndexPage = () => (
     <SEO title="coming soon" />
     <div>
       <div className="about-text">
-        <span className="span-block" id="hi">issa work in progress</span>
-        <span className="span-block" id="come-back">(plz come back soon)</span>
+        <h1 className="text-block" id="hi">this is a work in progress</h1>
+        <p className="text-block">please come back soon</p>
       </div>
       <div className="follow-me">
         <a href="https://www.instagram.com/snjnlsn">
