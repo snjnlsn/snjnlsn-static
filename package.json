@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "static-snjnlsn",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Interim Static Website",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Sanjay <services@snjnlsn.co>",
   "dependencies": {
     "gatsby": "^2.19.7",
     "gatsby-image": "^2.2.39",
@@ -40,9 +40,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/snjnlsn/static-snjnlsn"
   }
 }
